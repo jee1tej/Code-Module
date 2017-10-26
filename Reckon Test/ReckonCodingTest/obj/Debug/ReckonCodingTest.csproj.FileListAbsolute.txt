@@ -1,0 +1,6 @@
+D:\Jeevan\Reckon Test\ReckonCodingTest\bin\Debug\ReckonCodingTest.exe.config
+D:\Jeevan\Reckon Test\ReckonCodingTest\bin\Debug\ReckonCodingTest.exe
+D:\Jeevan\Reckon Test\ReckonCodingTest\bin\Debug\ReckonCodingTest.pdb
+D:\Jeevan\Reckon Test\ReckonCodingTest\obj\Debug\ReckonCodingTest.csprojResolveAssemblyReference.cache
+D:\Jeevan\Reckon Test\ReckonCodingTest\obj\Debug\ReckonCodingTest.exe
+D:\Jeevan\Reckon Test\ReckonCodingTest\obj\Debug\ReckonCodingTest.pdb
